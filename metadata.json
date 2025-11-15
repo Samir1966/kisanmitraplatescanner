@@ -1,0 +1,5 @@
+{
+  "name": "Kisanmitra PlantScanner",
+  "description": "An AI-powered app to identify plants, detect diseases from an image, and get detailed solutions to keep your plants healthy.",
+  "requestFramePermissions": []
+}
